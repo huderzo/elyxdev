@@ -1,0 +1,11 @@
+2024/07/21 09:26:15 logtail started
+2024/07/21 09:26:15 Program starting: v1.68.1-tf02ad8397-g8f9cb4763, Go 1.22.4: []string{"./tailscaled"}
+2024/07/21 09:26:15 LogID: f4ab0bed6504e662b91192cd4caec2db8680c6ab93f22ab9761e134a1f81b9c2
+2024/07/21 09:26:15 logpolicy: using system state directory "/var/lib/tailscale"
+2024/07/21 09:26:15 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2024/07/21 09:26:15 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/07/21 09:26:15 dns: using "direct" mode
+2024/07/21 09:26:15 dns: using *dns.directManager
+2024/07/21 09:26:15 flushing log.
+2024/07/21 09:26:15 logger closing down
+2024/07/21 09:26:15 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
